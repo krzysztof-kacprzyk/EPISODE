@@ -1,0 +1,3 @@
+python run_scripts/sample_trajectories_PK.py
+python run_scripts/sample_trajectories_HIV.py
+python run_scripts/sample_trajectories_SIR.py

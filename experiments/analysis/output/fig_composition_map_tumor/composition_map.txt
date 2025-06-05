@@ -1,0 +1,12 @@
+Node: [Feature 3 <= 0.19147154630332874]
+  -> Left:
+    Leaf: predicted class = 0
+    Leaf: class distribution = [0.06797274 0.09443278 0.92723268 0.93681108]
+  -> Right:
+    Node: [Feature 3 <= 0.482085624038749]
+      -> Left:
+        Leaf: predicted class = 1
+        Leaf: class distribution = [0.07730118 0.01531513 0.07453033 0.07551997]
+      -> Right:
+        Leaf: predicted class = 2
+        Leaf: class distribution = [0.17589689 0.01347622 0.00958798 0.00971658]
